@@ -11,18 +11,17 @@ database. Each marker is a placeof refuge for queer people during this era.
 ## Why This Matters
 Most of these spaces no longer exist. Many closed during the AIDS crisis. 
 Others were lost to gentrification, or redevelopment. This map 
-is a small act of recovery — making visible what has largely been made 
-invisible by time and circumstance.
+is a small act of recovery, making visible what has largely been made 
+invisible due to time and circumstance.
 
 ## The Three Decades
 The 1970s were defined by the aftermath of Stonewall and the explosive 
-growth of gay liberation organizing. Bars and community spaces opened in 
-numbers that would have been unthinkable a decade earlier. The 1980s were 
-shaped entirely by AIDS — spaces that had been places of joy became places 
-of mourning, and organizations like ACT UP and GMHC emerged from community 
-spaces to fight for survival. By the 1990s, the community was both depleted 
+growth of gay liberation organizing. The 1980s were shaped entirely by AIDS,
+meaning that the community spaces most prominent were memorials and sites of mourning,
+rather than nightclubs.
+By the 1990s, the community was both depleted 
 and radicalized, and the spaces that remained carried the weight of everyone 
-who had passed through them.
+who had passed.
 
 ## Data Source
 Data is drawn from the NYC LGBT Historic Sites Project 
