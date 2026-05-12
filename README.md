@@ -43,4 +43,3 @@ organizations, and pink for performance venues.
 | `nicoleperezpchfinal.ipynb` | Full annotated code for Jupyter |
 | `sites.json` | Source data downloaded from nyclgbtsites.org |
 | `lgbtq_map.html` | The rendered interactive map |
-| `README.md` | This file |
