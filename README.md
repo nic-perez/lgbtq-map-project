@@ -23,6 +23,17 @@ By the 1990s, the community was both depleted
 and radicalized, and the spaces that remained carried the weight of everyone 
 who had passed.
 
+
+## Workflow
+The pipeline moves through eight steps:
+**Data**: A JSON file of hundreds of site records is loaded from the NYC LGBT Historic Sites Project. Before any processing begins, the filters are defined upfront: three target decades, a set of allowed venue types, and a requirement for valid coordinates.
+**Filtering**: Every record runs a series of checks. Wrong era, wrong type, or missing coordinates will cause it to be skipped. What passes goes into a clean list called results.
+**Design**: Each marker gets a decade-specific color and a popup assembled from the site's name, address, era, image, and a link to its full history.
+**Map construction**: Folium builds the base map centered on Manhattan. Three separate marker cluster layers sit on top of it, one per decade, which is what makes decade toggling possible. Each layer can be switched on or off independently.
+**Output**: A layer control panel lets users filter by decade. A color-coded legend is injected as a fixed HTML overlay. The finished map saves as lgbtq_nyc_map.html.
+
+The **goal**: To make visible what time and circumstance have largely erased, placing markers where communities once gathered so those spaces are not simply forgotten.
+
 ## Data Source
 Data is drawn from the NYC LGBT Historic Sites Project 
 (nyclgbtsites.org, downloaded May 2026). Sites are filtered to 
